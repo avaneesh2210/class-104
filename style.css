@@ -1,0 +1,18 @@
+body{
+background-color: linearIngredient(rgb 200, 100, 150);
+}
+#book{
+    color: rgb(0, 26, 255);
+}
+#i{
+    color: cyan;
+}
+#purse{
+    color: green;
+}
+#box{
+    color: darkblue;
+}
+#card{
+    color: slateblue;
+}
